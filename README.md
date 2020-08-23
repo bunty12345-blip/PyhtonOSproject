@@ -105,5 +105,4 @@ In this activity written below I have explained the details of my task performed
 <!-- /wp:heading -->
 
 <!-- wp:heading -->
-<h2>Given below are the some of the images and video snippets of my code</h2>
-<!-- /wp:heading -->
+
